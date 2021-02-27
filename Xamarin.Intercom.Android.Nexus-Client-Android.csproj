@@ -45,7 +45,7 @@
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <PackageProjectUrl>https://github.com/AmrAlSayed0/Xamarin.Android.Intercom.Android.Nexus_Client_Android</PackageProjectUrl>
         <RepositoryUrl>https://github.com/AmrAlSayed0/Xamarin.Android.Intercom.Android.Nexus_Client_Android</RepositoryUrl>
-        <PackageVersion>6.1.0.0</PackageVersion>
+        <PackageVersion>6.1.0.1</PackageVersion>
         <RepositoryType>git</RepositoryType>
         <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     </PropertyGroup>
