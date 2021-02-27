@@ -4,7 +4,6 @@
         <IsBindingProject>true</IsBindingProject>
         <RootNamespace>Xamarin.Intercom.Android.Nexus_Client_Android</RootNamespace>
         <AssemblyName>Xamarin.Intercom.Android.Nexus-Client-Android</AssemblyName>
-        <AssemblyName>Xamarin.Google.Android.Flexbox</AssemblyName>
         <Product>$(AssemblyName) ($(TargetFramework))</Product>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <AssemblyFileVersion>1.0.0.0</AssemblyFileVersion>
